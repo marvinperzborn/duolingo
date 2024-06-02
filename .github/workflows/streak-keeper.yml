@@ -17,4 +17,4 @@ jobs:
       - run: node index.js
         env:
           DUOLINGO_JWT: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjYzMDcyMDAwMDAsImlhdCI6MCwic3ViIjo2NzQ3MTAwMDR9.fH651JMlj9DG0b4ptvBmOnrXqvKbG2vZ27L1tZv9a5Q
-          LESSONS: 11
+          LESSONS: 20
